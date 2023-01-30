@@ -1,7 +1,7 @@
 {
   "name": "movielake",
-  "version": "0.1.0",
-  "homepage": "https://KajetanWarmbier.github.io/movielake",
+  "version": "0.1.1",
+  "homepage": "https://KajetanWarmbier.github.io/movielake/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.8",
