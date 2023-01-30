@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movielake/static/css/main.95ab6031.css",
+    "main.js": "/movielake/static/js/main.b22255de.js",
+    "index.html": "/movielake/index.html",
+    "main.95ab6031.css.map": "/movielake/static/css/main.95ab6031.css.map",
+    "main.b22255de.js.map": "/movielake/static/js/main.b22255de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95ab6031.css",
+    "static/js/main.b22255de.js"
+  ]
+}
