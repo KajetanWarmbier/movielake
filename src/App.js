@@ -9,7 +9,7 @@ function App() {
       <div className='mx-5 xl:mx-28'>
         <Navbar />
         <Routes>
-          <Route path='/' element={<HomePage />} />
+          <Route exact path='/' element={<HomePage />} />
           <Route
             path='/movies'
             element={<CategoryPage categoryType='movie' />}
